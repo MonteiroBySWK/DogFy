@@ -1,6 +1,6 @@
-import Aside from "./components/Aside"
-import Principal from "./components/Principal"
-import Player from "./components/Player"
+import Aside from "./components/Aside.jsx"
+import Principal from "./components/Principal.jsx"
+import Player from "./components/Player.jsx"
 
 export default function App() {
   return (
