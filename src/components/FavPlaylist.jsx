@@ -1,4 +1,4 @@
-import IconMusic from "./IconMusic"
+import IconMusic from "./IconMusic.jsx"
 
 const styles = {
   flex: "1 1 calc(33.3333333333% - 8px)"

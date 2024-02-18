@@ -1,6 +1,6 @@
-import BtnC from "./BtnC"
-import FavPlaylist from "./FavPlaylist"
-import Playlist from "./Playlist"
+import BtnC from "./BtnC.jsx"
+import FavPlaylist from "./FavPlaylist.jsx"
+import Playlist from "./Playlist.jsx"
 
 export default function Principal() {
 

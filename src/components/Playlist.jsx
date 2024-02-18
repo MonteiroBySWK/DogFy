@@ -1,4 +1,4 @@
-import IconMusic from "./IconMusic"
+import IconMusic from "./IconMusic.jsx"
 
 export default function Playlist() {
 

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import BtnC from "./BtnC"
+import BtnC from "./BtnC.jsx"
 
 export default function ControlPlayer(props) {
   const [seconds, setSeconds] = useState(0)

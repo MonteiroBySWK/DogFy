@@ -1,5 +1,5 @@
-import Menu from "./Menu"
-import Library from "./Library"
+import Menu from "./Menu.jsx"
+import Library from "./Library.jsx"
 
 export default function Aside() {
 

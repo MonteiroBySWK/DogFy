@@ -1,4 +1,4 @@
-import { Pause, Left, Right, More, Mute, Play, Profile, Volume, Next, Heart, Random, Replay, Last, Home, Search } from "./Icons"
+import { Pause, Left, Right, More, Mute, Play, Profile, Volume, Next, Heart, Random, Replay, Last, Home, Search } from "./Icons.jsx"
 
 export default function BtnC(props) {
   return (

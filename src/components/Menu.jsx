@@ -1,4 +1,4 @@
-import { Home, Search } from "./Icons"
+import { Home, Search } from "./Icons.jsx"
 
 export default function Menu() {
 

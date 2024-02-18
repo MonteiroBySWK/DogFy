@@ -1,5 +1,5 @@
 import { useState } from "react"
-import BtnC from "./BtnC"
+import BtnC from "./BtnC.jsx"
 
 export default function OptionsPlayer() {
   const [mute, setMute] = useState(0)

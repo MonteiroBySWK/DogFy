@@ -1,6 +1,6 @@
-import InfoMusicPLayer from "./InfoMusicPlayer"
-import ControlPlayer from "./ControlPlayer"
-import OptionsPlayer from "./OptionsPlayer"
+import InfoMusicPLayer from "./InfoMusicPlayer.jsx"
+import ControlPlayer from "./ControlPlayer.jsx"
+import OptionsPlayer from "./OptionsPlayer.jsx"
 
 export default function Player() {
 

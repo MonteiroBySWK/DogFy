@@ -1,4 +1,4 @@
-import { Home } from "./Icons"
+import { Home } from "./Icons.jsx"
 
 export default function Library() {
 
