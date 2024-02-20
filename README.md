@@ -6,7 +6,3 @@ Este repositório foi criado com o propósito específico de praticar e aprimora
 
 ## Colaboração
 Se você identificar oportunidades de aprimoramento neste projeto ou desejar contribuir com novos recursos, estou aberto a receber suas sugestões e colaborações. Por favor, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com suas alterações. Além disso, você pode entrar em contato comigo por e-mail eumonteiro.ofc@gmail.com para discutir possíveis melhorias. Agradeço pelo seu interesse neste projeto.
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/main
